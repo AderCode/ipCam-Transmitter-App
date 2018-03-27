@@ -1,3 +1,3 @@
-# ipCam Camera App
+# ipCam Server
 
-An app for turning an android or iOS phone into an accessible camera for monitoring over ip or url.
+Server for routing transmitter app camera stream to monitoring app.
