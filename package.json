@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AderCode/ipCam-Transmitter-App/issues"
   },
-  "homepage": "https://github.com/AderCode/ipCam-Transmitter-App#readme"
+  "homepage": "https://github.com/AderCode/ipCam-Transmitter-App#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
 }
