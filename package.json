@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/AderCode/ipCam-Transmitter-App#readme",
   "dependencies": {
-    "express": "^4.16.3"
+    "express": "^4.16.3",
+    "node-media-server": "^1.2.5"
   }
 }
