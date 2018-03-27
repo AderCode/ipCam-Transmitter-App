@@ -1,0 +1,19 @@
+{
+  "name": "ipcam_server",
+  "version": "1.0.0",
+  "description": "For routing camera stream to monitor",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AderCode/ipCam-Transmitter-App.git"
+  },
+  "author": "Matthew Aderhold",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AderCode/ipCam-Transmitter-App/issues"
+  },
+  "homepage": "https://github.com/AderCode/ipCam-Transmitter-App#readme"
+}
